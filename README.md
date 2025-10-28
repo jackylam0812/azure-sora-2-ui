@@ -1,3 +1,7 @@
+<img width="1266" height="647" alt="image" src="https://github.com/user-attachments/assets/f61bf8b6-0130-46e2-9d24-40b162814328" />
+
+
+
 # Azure Sora 2 UI
 
 Deploy the Azure Sora 2 UI to Azure App Service.
